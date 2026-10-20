@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Great Britain Electricity Demand Forecasting
 
 A time series forecasting project comparing statistical and deep learning models to predict hourly electricity demand in Great Britain.
