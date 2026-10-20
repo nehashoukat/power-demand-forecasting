@@ -1,0 +1,33 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Exclude original and copy notebooks; keep cleaned notebook
+/notebooks/01_data_exploration.ipynb
+/notebooks/01_data_exploration copy.ipynb
+
+# Keep raw dataset local for now
+/data/time_series_60min_singleindex.csv
