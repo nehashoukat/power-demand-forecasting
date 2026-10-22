@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Great Britain Electricity Demand Forecasting
 
 A time series forecasting project comparing statistical and deep learning models to predict hourly electricity demand in Great Britain.
@@ -118,7 +118,3 @@ Run the notebook cells in order. Results depend on having the required dataset a
 ## Project Status
 
 The initial exploratory analysis and model comparison are complete. Application development, code modularisation, and deployment are planned next.
-=======
-# power-demand-forecasting
-Hourly electricity demand forecasting using statistical time series models and LSTM neural networks.
->>>>>>> 2405dcd0331f942af1a03f0f1e203246e75c4f50
